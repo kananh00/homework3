@@ -1,0 +1,44 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0 auto;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border: 17px solid #9ea0a1;
+    width: 40%;
+}
+
+.blog {
+    margin: 50px 20px;
+}
+
+.article {
+    margin-bottom: 40px;
+}
+.date {
+    color: #3498db;
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 2px;
+}
+
+.lineBefore_text {
+    border-left: 5px solid #9ea0a1;
+    padding-left: 5px;
+}
+
+.header {
+    text-transform: capitalize;
+    margin-top: 30px;
+}
+
+.coloredText {
+    background-color: #3cb371;
+    color: white;
+}
+
+.linedText {
+    text-decoration: line-through;
+    text-decoration-color: #8b0000;
+}
